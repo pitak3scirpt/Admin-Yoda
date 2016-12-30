@@ -1,3 +1,3 @@
 <?php
-echo "Hello Admin Yoda LINE.<br>";
+echo "Hello Admin Yoda LINE.";
 ?>
