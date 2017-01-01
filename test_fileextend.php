@@ -8,5 +8,6 @@ foreach ($dir as $fileinfo) {
   echo $fileinfo->getFilename() . "<br>";
 }
 $iterator = new DirectoryIterator(dirname(FILE));
+echo "Path : <br>";
 echo $iterator->getPath();
 ?>
