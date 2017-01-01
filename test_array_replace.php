@@ -1,6 +1,6 @@
 <?php
 $base = array("orange", "banana", "apple", "raspberry");
-var_dump($basket);
+var_dump($base);
 echo "<br>";
 echo "<br>";
 $replacements = array(0 => "pineapple", 4 => "cherry");
