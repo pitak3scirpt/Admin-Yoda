@@ -1,4 +1,4 @@
 <?php
-$array = array(0 => 'blue', 1 => 'red', 2 => 'green', 3 => 'red');
+$array = array(fan0 => 'blue', fan1 => 'red', fan2 => 'green', fan3 => 'red');
 echo array_search('green', $array);
 ?>
